@@ -3,4 +3,3 @@ Test/
 *.pyc
 __pycache__/
 *.pyo
-.md
